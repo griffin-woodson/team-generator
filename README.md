@@ -28,4 +28,4 @@
   Email me at griffin.woodson@gmail.com
 
   ## Screencapture
-  ![Video Walkthrough](https://drive.google.com/file/d/17BIBWKyezhOLqokGjIUWoB2MpYZXfcmL/view)
+  [Video Walkthrough](https://drive.google.com/file/d/17BIBWKyezhOLqokGjIUWoB2MpYZXfcmL/view)
