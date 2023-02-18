@@ -1,0 +1,25 @@
+{
+  "name": "team-of-the-year",
+  "version": "1.0.0",
+  "description": "Module 10 Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griffin-woodson/team-of-the-year.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griffin-woodson/team-of-the-year/issues"
+  },
+  "homepage": "https://github.com/griffin-woodson/team-of-the-year#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
